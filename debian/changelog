@@ -1,53 +1,5 @@
-osso-systemui-tklock (0.3.1.1+0cssu2) unstable; urgency=low
+osso-systemui-devlock (0.3.5+0m5) unstable; urgency=low
 
-  * Update parameters for window hide/show functions, again
-  * depend on RE osso-systemui-dev package version
+  * Initial Release.
 
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Thu, 27 Oct 2016 17:55:33 +0200
-
-osso-systemui-tklock (0.3.1.1+0cssu1) unstable; urgency=low
-
-  * Update parameters for window hide/show functions
-
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Sun, 25 Oct 2015 00:04:41 -0400
-
-osso-systemui-tklock (0.3.1.1+0cssu0) unstable; urgency=low
-
-  * Fix https://bugs.maemo.org/12701 - ball moving when touching anywhere
-    along bar-slide 
-
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Thu, 18 Jul 2013 11:49:54 +0300
-
-osso-systemui-tklock (0.3.1.0+0cssu0) unstable; urgency=low
-
-  * Add support for autorotation
-  * Add portrait background for alpha theme
-  * Enable autorotation only if gconf key /system/systemui/tklock/auto_rotation is true
-  * Fix memory leak, unref gconf client
-
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Wed, 09 Jan 2013 17:55:34 +0200
-
-osso-systemui-tklock (0.3.0.3+0cssu0) unstable; urgency=low
-
-  * Don't destroy event eater window on screen dimmed->screen unlocked transition
-
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Wed, 09 Jan 2013 01:04:16 +0200
-
-osso-systemui-tklock (0.3.0.2+0cssu0) unstable; urgency=low
-
-  * Add one input mode handling (event eater)
-
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Wed, 09 Jan 2013 00:25:34 +0200
-
-osso-systemui-tklock (0.3.0.1+0cssu0) unstable; urgency=low
-
-  * Fix missing background image when top application is in portrait
-
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Sun, 16 Dec 2012 23:16:45 +0200
-
-osso-systemui-tklock (0.3.0.0+0cssu0) unstable; urgency=low
-
-  * Initial release
-
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Sun, 25 Nov 2012 14:37:23 +0200
-
+ -- Oksana Tkachenko <oksana.a.tkachenko@gmail.com>  Thu, 03 Nov 2016 09:39:20 +1000
