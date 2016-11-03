@@ -1,4 +1,4 @@
-This package was debianized by Ivaylo Dimitrov <freemangordon@abv.bg> on
+osso-systemui-tklock package was debianized by Ivaylo Dimitrov <freemangordon@abv.bg> on
 Sun, 17 Dec 2012 23:39:33 +0200.
 
 Copyright: 2012 (C) Ivaylo Dimitrov <freemangordon@abv.bg>
@@ -29,3 +29,5 @@ is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
 
 # Please also look if there are files or directories which have a
 # different copyright/license attached and list them here.
+
+Being converted into osso-systemui-devlock by Oksana Tkachenko <oksana.a.tkachenko@gmail.com>
